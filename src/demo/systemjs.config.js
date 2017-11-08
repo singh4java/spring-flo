@@ -24,6 +24,7 @@
       '@angular/forms': 'npm:@angular/forms/bundles/forms.umd.js',
 
       // other libraries
+      // 'rxjs/operators': 'npm:rxjs@5.4.3/operators/index.js',
       'rx': 'npm:rx',
       'rxjs': 'npm:rxjs',
       'jointjs': 'npm:jointjs',
