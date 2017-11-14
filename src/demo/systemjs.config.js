@@ -65,6 +65,9 @@
       rxjs: {
         defaultExtension: 'js'
       },
+      'rxjs/operators': {
+        main: './index.js'
+      },
       'ts-disposables': {
         defaultExtension: 'js',
         main: './dist/index.js'
